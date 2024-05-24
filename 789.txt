@@ -23,5 +23,10 @@ dev 33333
 ---
 ====
 +++++
+<<<<<<< HEAD
 hello
 world
+=======
+
+conflict
+>>>>>>> origin/dev_aa
