@@ -27,3 +27,9 @@ hello
 world
 
 conflict
+<<<<<<< HEAD
+=======
+
+dai commit 2
+新增站址
+>>>>>>> 9e7ead6 (新增站址)
